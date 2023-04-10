@@ -1,0 +1,235 @@
+#menu .menuFont p{
+  border-bottom:1px dashed #a9a6a6;
+}
+
+#carouseltoplayer{
+  position:absolute;
+  text-align:center;
+  left:50%;
+  z-index:1000;
+  vertical-align:middle;
+}
+
+.absAlign{
+  position:relative;
+  left:-50%;
+  margin-top:-55%;
+  font-size:50px;
+}
+
+@media (max-width:991px) {
+  .absAlign{
+    position:relative;
+    left:-50%;
+    margin-top:-50%;
+  }
+}
+
+@media (max-width:767px) {
+  .absAlign{
+    position:relative;
+    left:-50%;
+    margin-top:-80%;
+  }
+}
+
+@media (max-width:360px) {
+  .absAlign{
+    position:relative;
+    left:-50%;
+    margin-top:-50%;
+  }
+}
+
+
+@media (max-width:1199px) {
+  .alignC{
+    position:absolute;
+    top:50%;
+    width:20%;
+    z-index:1000;
+    transform-origin:left top;
+    left:50%;
+  }
+}
+
+.alignC{
+  position:absolute;
+  top:50%;
+  z-index:1000;
+  transform-origin:left top;
+  left:50%;
+}
+
+.alignC img{
+    opacity: 0.6;
+}
+
+.setAnchor{
+  width:100%;
+  position:relative;
+  margin-left:-50%;
+  margin-top:-50%;
+}
+
+@media (max-width:767px) {
+  .setAnchor{
+    display:none;
+  }
+}
+
+.btn-flat:active, .btn-flat:focus, .btn-flat:hover{
+  background-color:#605b58;
+}
+
+.btn-flat{
+  border-radius:0px;
+  border-width:0;
+  background-image:none;
+  padding:16px;
+  margin:0 auto;
+  margin-top:15px;
+  width:100%;
+  font-size:20pt;
+  background-color:#3c3734;
+}
+
+
+@media (max-width:360px) {
+.btn-flat{
+  font-size:14pt;
+}
+}
+
+
+.hiddenOnStart{
+  display:none;
+}
+
+#subscribeForm .input-group{
+  margin:20px auto;
+  width:100%;
+}
+
+#subscribeForm input.btn.btn-lg, #subscribeForm input.btn.btn-lg:focus{
+  outline:none;
+  width:60%;
+  height:60px;
+  border-radius:0;
+}
+
+#subscribeForm button.btn{
+  width:40%;
+  height:60px;
+  border-radius:0;
+}
+
+@media (max-width:360px) {
+#subscribeForm input.btn.btn-lg, #subscribeForm input.btn.btn-lg:focus ,#subscribeForm button.btn{
+font-size: 12px;
+}
+}
+
+@media (max-width:767px) {
+#subscribeForm input.btn.btn-lg, #subscribeForm input.btn.btn-lg:focus ,#subscribeForm button.btn{
+font-size: 12px;
+}
+}
+
+
+.addBorderBottom{
+  border-bottom:1px solid white;
+}
+
+.paddingToBottom{
+  padding-bottom:5%;
+}
+
+#footerLinks h4{
+  font-size:24px;
+}
+
+.quickLinks li:hover{
+  opacity:0.5;
+}
+
+.quickLinks li a{
+  color:white;
+  text-decoration:none;
+}
+
+@media (max-width:767px) {
+  .footer-navigation{
+    text-align:center;
+  }
+}
+
+.socialLinks i{
+  font-size:30px;
+  padding-right:28%;
+}
+
+#seeLoc .teaLogo:hover{
+  opacity:0.5;
+  cursor:pointer;
+}
+
+.galleryLink{
+  font-size:20px;
+  text-decoration:none !important;
+  color:#3c3734;
+  font-weight:bolder !important;
+}
+
+@media (max-width:360px) {
+.galleryLink{
+  font-size:18px;
+}
+}
+
+
+
+.well{
+  min-height:20px;
+  padding-top:10px;
+  padding-bottom:10px;
+  margin-bottom:20px;
+  background-color:#c6c6c6;
+  border:1px solid #e3e3e3;
+  border-radius:0px;
+  -webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.05);
+  box-shadow:inset 0 1px 1px rgba(0,0,0,.05);
+  background-image: none;
+}
+
+.offerDesc img.img-responsive:hover{
+  opacity:0.5;
+  transform:scale(1.06);
+}
+
+.offerDesc img.img-responsive{
+  transition:all 0.5s ease;
+}
+
+#gallery img{
+  width:100%;
+}
+
+.paddingOffsetTB{
+  padding-top:0px;
+  padding-bottom:35px;
+}
+
+#menu .paddingOffsetTB div{
+padding: 16px;
+}
+
+
+#menu div img:hover{
+  opacity:0.5;
+  transform:scale(1.05);
+}
+
+#menu div img{
+  transition:all 0.5s ease;
+}

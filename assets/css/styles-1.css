@@ -1,0 +1,229 @@
+@media (max-width:991px) {
+  span.icon img{
+    font-size:35px;
+    vertical-align:middle;
+    padding:0px 30px;
+  }
+}
+
+.icon{
+  font-size:65px;
+  vertical-align:middle;
+  padding:0px 30px;
+}
+
+i.fa.fa-chevron-circle-down.icon{
+  margin-top:25%;
+}
+
+.contentAlign{
+  text-align:center;
+}
+
+div#logo{
+  width:20%;
+}
+
+.centered{
+  height:100%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  text-align:center;
+}
+
+#teaLogo{
+  height:150px;
+}
+
+body{
+  font-family:Arial,haveltica,sans-serif;
+}
+
+#intro{
+  font-weight:normal;
+}
+
+.intro{
+  font-weight:normal;
+  text-align:center;
+}
+
+.footer-navigation .teaLogo{
+  max-height:200px;
+}
+
+#footerLinks .teaLogo{
+  height:150px;
+}
+
+.teaLogo{
+  max-height:200px;
+}
+
+.jumbotron{
+  background-color:#fff;
+  padding-top:10px;
+}
+
+#location .jumbotron{
+  background-color:#c6c6c6;
+  padding-top:10px;
+  border-radius:0px;
+}
+
+#offer .jumbotron{
+  background-color:#c6c6c6;
+  padding-top:10px;
+  border-radius:0px;
+}
+
+.offerDesc{
+  font-family:Amatic SC;
+  font-weight:bold;
+  font-size:52px;
+  vertical-align:middle;
+  margin-top:30px;
+}
+
+.paddingOffset{
+  padding:0px 0px;
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.footerText{
+  font-family:Amatic SC;
+  font-size:70px;
+  text-align:center;
+}
+
+small.footerTextsm{
+}
+
+small.footerText{
+  font-size:40px;
+}
+
+.alignCenter{
+  text-align:center;
+}
+
+i.fa.fa-circle-thin.icon{
+  font-size:200px;
+  padding:10px 80px;
+}
+
+img.img-circle.headLogo{
+  opacity:0.6;
+}
+
+.menuFont{
+  font-family:'Amatic SC';
+  font-weight:bold;
+  line-height:30px;
+}
+
+.para{
+  font-size:20px;
+  font-variant:small-caps;
+  padding:10px 0px;
+}
+
+#carouseltoplayer .fontOverload{
+  font-weight:bolder;
+}
+
+.fontOverload{
+  font-family:"Raleway",sans-serif;
+  font-weight:normal;
+}
+
+.headerFont{
+  padding:30px 0px;
+}
+
+.subHead{
+  font-family:"Raleway", Robot,sans-serif;
+  padding-bottom:25px;
+  font-weight:normal;
+}
+
+.addBackGround{
+  background-image:url(../../assets/img/2.jpg);
+  background-repeat:no-repeat;
+  background-size:1140px;
+}
+
+.listAddress{
+  font-size:20px;
+  padding:20px 30px;
+  font-family:roboto;
+  text-align:left;
+  font-weight:normal;
+  color:white;
+  text-align:center;
+}
+
+.backAlpha{
+  background-color:black;
+  opacity:0.7;
+  max-height:286px;
+}
+
+.form-group{
+  margin-bottom:15px;
+  padding:0px 5px;
+  color:white;
+}
+
+.ph{
+  padding-top:12px;
+  padding-bottom:12px;
+}
+
+.footer{
+  color:white;
+}
+
+.heading{
+  font-size:22px;
+  font-weight:500;
+}
+
+.inherit{
+  font-family:Amatic SC;
+}
+
+p{
+  font-weight:400;
+  font-size:16px;
+  letter-spacing:0.4px;
+  line-height:28px;
+}
+
+.infoBox{
+  width:50%;
+}
+
+h2.text-left.inherit.footer.heading{
+  font-size:30px;
+  font-weight:bolder;
+  padding-bottom:0px;
+  margin-top:38px;
+}
+
+.iconInfo{
+  font-size:18px;
+  vertical-align:middle;
+  padding:6px 1px;
+}
+
+i.iconFacebook:hover{
+  color:#337ab7;
+}
+
+i.iconInsta:hover{
+  color:#f05853;
+}
+
